@@ -1,6 +1,5 @@
 ---
 title: "GA4GH Beacon v2 at GA4GH Plenary"
-layout: default
 date: 2020-09-30
 authors:
   - '@mbaudis'

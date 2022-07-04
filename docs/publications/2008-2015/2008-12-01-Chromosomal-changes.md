@@ -1,7 +1,6 @@
 ---
 title: "Chromosomal changes..."
 date: 2008-12-01
-layout: default
 pdf_file_name: 18810378.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/18810378

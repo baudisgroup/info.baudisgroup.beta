@@ -1,21 +1,9 @@
 ---
 title:  "Qingyao Huang"
-permalink: /group/Qingyao_Huang/
-excerpt_link: https://info.baudisgroup.org/group/Qingyao_Huang/
-excerpt_separator: <!--more-->
-layout: default
+description: PhD in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics | SIB
 date:   2017-04-01
-category:
-  - alumni
-tags:
-  - Qingyao
-  - people
-  - alumni
+is_gone: true
 ---
-
-## Qingyao Huang
-
-#### PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
 
 <!--more-->
 

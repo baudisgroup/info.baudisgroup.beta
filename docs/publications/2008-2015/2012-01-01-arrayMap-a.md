@@ -1,7 +1,6 @@
 ---
 title: "arrayMap: a..."
 date: 2012-01-01
-layout: default
 pdf_file_name: 22629346.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/22629346

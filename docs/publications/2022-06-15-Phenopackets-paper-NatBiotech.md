@@ -1,9 +1,7 @@
 ---
 title: GA4GH Phenopacket - a computable representation of clinical data
-layout: default
 authors:
  - '@mbaudis'
-excerpt_separator: <!--more-->
 description: Phenopackets v2 publication
 date: 2022-06-15
 author: "@mbaudis"

@@ -1,7 +1,6 @@
 ---
 title: "Genomic instability..."
 date: 2015-01-01
-layout: default
 pdf_file_name: 25992885.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/25992885

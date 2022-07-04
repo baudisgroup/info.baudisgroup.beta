@@ -1,6 +1,5 @@
 ---
 title: "Minimum Error Calibration and Normalization for Genomic Copy Number Analysis"
-layout: default
 date: 2019-09-10
 category:
   - presentations

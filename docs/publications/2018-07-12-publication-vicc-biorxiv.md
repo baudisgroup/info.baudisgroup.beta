@@ -1,9 +1,7 @@
 ---
 title: "Meta-knowledgebase of cancer genomic variants"
 date: 2018-07-12
-layout: default
 author: mbaudis
-excerpt_separator: <!--more-->
 pdf_file_name: 2018-07-12___Wagner_et_al.__A_Meta-Knowledgebase_of_Cancer_Variants__biorXiv.pdf
 pdf_file_type: article   # slides poster article
 www_links_formatted: '<a href="https://www.biorxiv.org/content/early/2018/07/11/366856" target="_blank">[biorXiv]</a>'  # use this for a quoted, complete HTML link with label 

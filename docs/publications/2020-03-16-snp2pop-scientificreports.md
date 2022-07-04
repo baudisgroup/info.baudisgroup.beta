@@ -1,11 +1,9 @@
 ---
 title: "Population assignment from cancer genomes"
 date: 2020-03-16
-layout: default
 authors:
   - "@mbaudis"
   - "@qingyao"
-excerpt_separator: <!--more-->
 pdf_file_name: 2020-03-16___Huang-Q-and-Baudis-M__Population-assignment-from cancer genomes-with-SNP2pop__ScientificReports.pdf
 pdf_file_type: article    # slides poster article
 www_link: 

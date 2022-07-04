@@ -1,6 +1,5 @@
 ---
 title: "Update of Progenetix Oncogenomics Resource"
-layout: default
 date: 2020-10-30
 authors:
   - '@qingyao'

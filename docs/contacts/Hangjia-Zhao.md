@@ -1,19 +1,9 @@
 ---
 title:  "Hangjia Zhao"
-permalink: /group/Hangjia_Zhao/
-excerpt_link: https://info.baudisgroup.org/group/Hangjia_Zhao/
-excerpt_separator: <!--more-->
-layout: default
+description: PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics | SIB
 date:   2021-05-21
-category:
-  - people
-tags:
-  - Hangjia
 ---
 
-## Hangjia Zhao
-
-#### PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
 
 <!--more-->
 

@@ -1,7 +1,6 @@
 ---
 title: "Translocations..."
 date: 2009-02-01
-layout: default
 pdf_file_name: 18923440.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/18923440

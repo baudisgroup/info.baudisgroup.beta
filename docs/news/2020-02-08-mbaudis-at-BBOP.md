@@ -1,9 +1,7 @@
 ---
 title: "Michael @ BBOP"
 date: 2020-02-08
-layout: default
 author: mbaudis
-excerpt_separator: <!--more-->
 pdf_file_name: 2020-02-14___Michael-Baudis__baudisgroup-portfolio__BBOP-group-presentation.pdf
 category:
   - news

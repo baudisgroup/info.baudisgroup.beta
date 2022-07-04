@@ -1,17 +1,9 @@
 ---
 title:  "Saumya Gupta"
-permalink: /group/Saumya_Gupta/
-excerpt_separator: <!--more-->
-excerpt_link: https://info.baudisgroup.org/group/Saumya_Gupta/
-layout: default
+description: Former PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics | SIB
 date:   2012-02-01
-category:
-  - alumni
+is_gone: true
 ---
-
-## Saumya Gupta
-
-#### PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
 
 <!--more-->
 

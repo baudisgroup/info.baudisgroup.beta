@@ -1,6 +1,5 @@
 ---
 title: "SchemaBlocks and GA4GH TASC"
-layout: default
 date: 2020-04-20
 authors:
   - '@mbaudis'

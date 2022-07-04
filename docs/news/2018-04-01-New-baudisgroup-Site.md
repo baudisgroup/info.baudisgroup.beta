@@ -1,6 +1,5 @@
 ---
 title:  "New baudisgroup site"
-layout: default
 date:   2018-04-01
 category:
   - news

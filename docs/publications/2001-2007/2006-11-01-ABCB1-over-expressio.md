@@ -1,7 +1,6 @@
 ---
 title: "ABCB1 over-expressio..."
 date: 2006-11-01
-layout: default
 pdf_file_name: 16206189.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/16206189

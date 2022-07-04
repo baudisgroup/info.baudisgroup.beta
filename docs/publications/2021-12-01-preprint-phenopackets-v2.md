@@ -1,10 +1,8 @@
 ---
 title: "The GA4GH Phenopacket schema"
 date: 2021-11-30
-layout: default
 authors:
  - '@mbaudis'
-excerpt_separator: <!--more-->
 excerpt_link:
 pdf_file_name: 2021-11-30___Jacobsen-et-al.__The GA4GH Phenopacket schema__medRxiv-preprint.pdf
 pdf_file_type: article    # slides poster article

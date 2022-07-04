@@ -1,18 +1,11 @@
 ---
 title: "Yu Yu Liu"
+description: MSc candidate | Université de Pierre et Marie Curie, Paris
 permalink: /group/Yu_Yu_Liu/
-excerpt_separator: <!--more-->
 excerpt_link: https://info.baudisgroup.org/group/Yu_Yu_Liu/
-layout: default
 date:   2015-02-18
-category:
-  - alumni
-tags:
-  - alumni
-  - group
+is_gone: true
 ---
-
-## Yu Yu Liu
 
 As a student visiting from Université de Pierre et Marie Curie, Paris, Yu Yu Liu performed a master thesis project __Meta-analysis of cancer copy number alteration for diagnosis__ between February and June, 2015.
 

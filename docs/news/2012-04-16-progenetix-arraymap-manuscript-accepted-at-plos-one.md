@@ -1,7 +1,6 @@
 ---
 title: 'arrayMap manuscript accepted at PLoS ONE'
 date: 2012-04-16
-layout: default
 category:
   - news
 tags: 

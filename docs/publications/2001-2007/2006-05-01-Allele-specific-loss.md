@@ -1,7 +1,6 @@
 ---
 title: "Allele-specific loss..."
 date: 2006-05-01
-layout: default
 pdf_file_name: 16682279.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/16682279

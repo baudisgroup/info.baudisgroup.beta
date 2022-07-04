@@ -1,7 +1,6 @@
 ---
 title: "Distance-based..."
 date: 2006-08-01
-layout: default
 pdf_file_name: 16705014.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/16705014

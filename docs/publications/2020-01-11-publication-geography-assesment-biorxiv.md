@@ -1,9 +1,7 @@
 ---
 title: "Geographic assessment of cancer genome profiling studies"
 date: 2020-01-11
-layout: default
 author: '@mbaudis'
-excerpt_separator: <!--more-->
 pdf_file_name: 2020-01-11___Carrio-Cordo-and-Baudis__Geographic-Assessment-of-Cancer-Genome-Profiling-Studies_2__biorXiv.pdf
 pdf_file_type: article    # slides poster article
 www_link:

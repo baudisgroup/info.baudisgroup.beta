@@ -1,7 +1,6 @@
 ---
 title: "A 10.7 Mb interstiti..."
 date: 2008-09-01
-layout: default
 pdf_file_name: 18698619.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/18698619

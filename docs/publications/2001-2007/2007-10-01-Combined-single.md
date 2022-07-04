@@ -1,7 +1,6 @@
 ---
 title: "Combined single..."
 date: 2007-10-01
-layout: default
 pdf_file_name: 17713554.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/17713554

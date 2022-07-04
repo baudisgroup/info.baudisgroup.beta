@@ -1,6 +1,5 @@
 ---
 title: "UniFi Seminar - Structural Genome Variants in Cancer"
-layout: default
 date: 2019-09-03
 category:
   - presentations

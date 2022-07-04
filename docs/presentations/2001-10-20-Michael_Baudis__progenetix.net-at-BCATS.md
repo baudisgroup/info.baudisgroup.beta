@@ -1,6 +1,5 @@
 ---
 title: "BCATS 2001 - progenetix.net: storage and visualization of genomic aberration data in human malignancies"
-layout: default
 date: 2001-10-20
 category:
   - presentations

@@ -1,7 +1,6 @@
 ---
 title: "DNA copy number..."
 date: 2012-09-01
-layout: default
 pdf_file_name: 22772606.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/22772606

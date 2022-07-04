@@ -1,10 +1,8 @@
 ---
 title: "Genomic data and Privacy"
-layout: default
 date: 2020-12-07
 authors:
   - '@mbaudis'
-excerpt_separator: <!--more-->
 category:
   - presentations
   - news

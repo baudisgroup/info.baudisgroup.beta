@@ -1,9 +1,7 @@
 ---
 title: Beacon v2 Publication in Human Mutation
-layout: default
 authors:
  - '@mbaudis'
-excerpt_separator: <!--more-->
 description: Beacon v2 publication
 date: 2022-03-17
 author: "@rahelp"

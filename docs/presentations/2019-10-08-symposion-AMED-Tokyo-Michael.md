@@ -1,6 +1,5 @@
 ---
 title: "Talk at AMED Tokyo -  Cancer Genomics and Standards"
-layout: default
 date: 2019-10-08
 category:
   - presentations

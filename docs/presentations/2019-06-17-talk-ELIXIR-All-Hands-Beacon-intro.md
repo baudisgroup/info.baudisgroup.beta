@@ -1,6 +1,5 @@
 ---
 title: "ELIXIR All Hands - Beacon Introduction"
-layout: default
 date: 2019-06-17
 category:
   - presentations

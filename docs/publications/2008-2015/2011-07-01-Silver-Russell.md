@@ -1,7 +1,6 @@
 ---
 title: "Silver-Russell..."
 date: 2011-07-01
-layout: default
 pdf_file_name: 20738330.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/20738330

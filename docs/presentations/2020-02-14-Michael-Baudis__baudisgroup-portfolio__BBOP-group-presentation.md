@@ -1,6 +1,5 @@
 ---
 title: "BBOP Presentation - Baudisgroup Projects & Interests"
-layout: default
 date: 2020-02-14
 authors:
   - '@mbaudis'

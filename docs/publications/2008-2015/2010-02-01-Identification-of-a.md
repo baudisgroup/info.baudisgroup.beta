@@ -1,7 +1,6 @@
 ---
 title: "Identification of a..."
 date: 2010-02-01
-layout: default
 pdf_file_name: 20101688.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/20101688

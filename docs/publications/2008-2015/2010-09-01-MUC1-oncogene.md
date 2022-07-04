@@ -1,7 +1,6 @@
 ---
 title: "MUC1 oncogene..."
 date: 2010-09-01
-layout: default
 pdf_file_name: 20682394.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/20682394

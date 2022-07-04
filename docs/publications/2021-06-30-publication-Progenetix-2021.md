@@ -1,11 +1,9 @@
 ---
 title: "The Progenetix oncogenomic resource in 2021"
 date: 2021-06-30
-layout: default
 authors:
  - '@mbaudis'
  - '@qingyao'
-excerpt_separator: <!--more-->
 permalink: /publications/progenetix-2021.html
 pdf_file_name:
 pdf_file_type: article    # slides poster article

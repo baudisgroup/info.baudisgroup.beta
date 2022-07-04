@@ -1,5 +1,4 @@
 ---
-layout: default
 date: 2016-03-17
 category:
   - presentations

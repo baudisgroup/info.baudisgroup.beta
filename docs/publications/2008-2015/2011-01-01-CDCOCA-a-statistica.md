@@ -1,7 +1,6 @@
 ---
 title: "CDCOCA: a statistica..."
 date: 2011-01-01
-layout: default
 pdf_file_name: 21371302.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/21371302

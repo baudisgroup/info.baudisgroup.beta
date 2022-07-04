@@ -1,11 +1,9 @@
 ---
 title: "Signatures of Discriminative CNA in 31 Cancer Subtypes"
 date: 2021-05-13
-layout: default
 authors:
  - '@mbaudis'
  - '@KyleGao'
-excerpt_separator: <!--more-->
 pdf_file_name: 2021-05-13___Gao-and-Baudis__Signatures-of-Discriminative-Copy-Number-Aberrations-in-31-Cancer-Subtypes__Froniers-in-Genetics.pdf
 pdf_file_type: article    # slides poster article
 permalink: /publications/2021-gao-signatures.html

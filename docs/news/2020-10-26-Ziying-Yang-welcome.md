@@ -1,9 +1,7 @@
 ---
 title: "Welcome to Ziying"
 date: 2020-10-26
-layout: default
 author: mbaudis
-excerpt_separator: <!--more-->
 pdf_file_name:
 www_links_formatted:
 category:

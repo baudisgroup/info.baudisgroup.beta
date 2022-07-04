@@ -1,7 +1,6 @@
 ---
 title: "2p21 Deletions in..."
 date: 2012-10-01
-layout: default
 pdf_file_name: 22766003.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/22766003

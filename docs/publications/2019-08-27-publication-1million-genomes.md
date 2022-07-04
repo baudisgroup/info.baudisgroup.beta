@@ -1,9 +1,7 @@
 ---
 title: "Leveraging European infrastructures to access 1 million human genomes by 2022"
 date: 2019-08-27
-layout: default
 author: "@mbaudis"
-excerpt_separator: <!--more-->
 pdf_file_name: 2019-08-27___Saunders-et-al.__Leveraging-European-infrastructures-to-access-1-million-human-genomes-by-2022__NatRevGenetics.pdf
 pdf_file_type: article # slides poster article
 www_link: https://www.nature.com/articles/s41576-019-0156-9#Sec6

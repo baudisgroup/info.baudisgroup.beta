@@ -1,7 +1,6 @@
 ---
 title: "PKCα and HMGB1..."
 date: 2016-09-01
-layout: default
 pdf_file_name: 27198223.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/27198223

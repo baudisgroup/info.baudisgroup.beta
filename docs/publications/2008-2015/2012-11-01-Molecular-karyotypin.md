@@ -1,7 +1,6 @@
 ---
 title: "Molecular karyotypin..."
 date: 2012-11-01
-layout: default
 pdf_file_name: 22683032.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/22683032

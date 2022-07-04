@@ -1,9 +1,7 @@
 ---
 title: "Registered access: authorizing data access"
 date: 2018-08-02
-layout: default
 author: Michael
-excerpt_separator: <!--more-->
 pdf_file_name: 2018-06-20___Dyke_et_al.__Registered_access._Authorizing_data_access__EurJorHumGen.pdf
 pdf_file_type:    # slides poster article
 www_link: 

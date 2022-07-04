@@ -1,10 +1,8 @@
 ---
 title: "Genomic imbalances in 5918 malignant tumors"
 date: 2007-01-01
-layout: default
 pdf_file_name: 18088415.pdf
 pdf_file_type: article
-excerpt_separator: <!--more-->
 permalink: /publications/18088415.html
 excerpt_link: http://info.baudisgroup.org/publications/18088415.html
 www_link: http://europepmc.org/abstract/MED/18088415

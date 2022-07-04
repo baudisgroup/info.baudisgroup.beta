@@ -1,6 +1,5 @@
 ---
 title: "ELIXIR Open Day - Beacon Networks"
-layout: default
 date: 2020-02-06
 category:
   - presentations

@@ -1,7 +1,6 @@
 ---
 title: "Specific genomic..."
 date: 2012-01-01
-layout: default
 pdf_file_name: 22937079.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/22937079

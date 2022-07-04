@@ -1,6 +1,5 @@
 ---
 title: "Talk at St. Gallen Radiation Oncology - Bioinformatics and Data Exchange"
-layout: default
 date: 2019-11-08
 www_links_formatted:
   - '<a href="https://www.kssg.ch/radio-onkologie/lehre-forschung/fortbildungsveranstaltungen/3rd-st-gallen-radiation-oncology/" target="_BLANK">3rd St. Gallen Radiation Oncology Informatics Meeting</a>'

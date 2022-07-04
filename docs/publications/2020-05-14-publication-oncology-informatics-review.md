@@ -1,10 +1,8 @@
 ---
 title: "Oncology Informatics: Status Quo and Outlook - Review"
 date: 2020-05-14
-layout: default
 authors:
  - '@mbaudis'
-excerpt_separator: <!--more-->
 pdf_file_name: 2020-05-14___Putora,-Baudis-et-al.__Oncology-Informatics--Status-Quo-and-Outlook__Oncology,-review.pdf
 pdf_file_type: article    # slides poster article
 www_link:

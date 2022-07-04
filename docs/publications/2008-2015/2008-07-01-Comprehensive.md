@@ -1,7 +1,6 @@
 ---
 title: "Comprehensive..."
 date: 2008-07-01
-layout: default
 pdf_file_name: 18371186.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/18371186

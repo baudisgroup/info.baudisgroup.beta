@@ -1,7 +1,6 @@
 ---
 title: "Recurrent loss of..."
 date: 2008-06-01
-layout: default
 pdf_file_name: 18515880.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/18515880

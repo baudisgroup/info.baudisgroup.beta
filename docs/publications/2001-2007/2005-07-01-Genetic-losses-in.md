@@ -1,7 +1,6 @@
 ---
 title: "Genetic losses in..."
 date: 2005-07-01
-layout: default
 pdf_file_name: 15993270.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/15993270

@@ -1,7 +1,6 @@
 ---
 title: "Progenetix: 12 years..."
 date: 2014-01-01
-layout: default
 pdf_file_name: 24225322.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/24225322

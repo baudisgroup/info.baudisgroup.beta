@@ -1,9 +1,7 @@
 ---
 title: "The ELIXIR hCNV Community"
-layout: default
 authors:
  - '@mbaudis'
-excerpt_separator: <!--more-->
 pdf_file_name: 2020-10-13___Salgado-D-et-al.__The-ELIXIR-hCNV-Community__F1000-Research.pdf
 pdf_file_type: article    # slides poster article
 www_link:

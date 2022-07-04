@@ -1,7 +1,6 @@
 ---
 title: "Recurrent loss, but..."
 date: 2009-07-01
-layout: default
 pdf_file_name: 19480937.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/19480937

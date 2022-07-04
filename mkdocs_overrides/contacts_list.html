@@ -23,12 +23,22 @@
     {% endif %}
   {% endfor %}
 
-<h2>Contributors</h2>
+<h2>Group Members</h2>
 
   {% for page in contacts_pages %}
     {% if not page.meta.is_contact %}
-      {% include "partials/blog_contact.html" %}
+      {% if not page.meta.is_gone %}
+        {% include "partials/blog_contact.html" %}
       {% endif %}
+    {% endif %}
+  {% endfor %}
+
+<h2>Alumni and Former Visitors</h2>
+
+  {% for page in contacts_pages %}
+    {% if page.meta.is_gone %}
+      {% include "partials/blog_contact.html" %}
+    {% endif %}
   {% endfor %}
 
 {% endblock %}

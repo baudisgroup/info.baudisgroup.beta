@@ -1,7 +1,6 @@
 ---
 title: "Unequivocal..."
 date: 2005-04-01
-layout: default
 pdf_file_name: 15800319.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/15800319

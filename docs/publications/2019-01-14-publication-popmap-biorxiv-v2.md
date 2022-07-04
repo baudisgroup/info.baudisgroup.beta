@@ -1,9 +1,7 @@
 ---
 title: "Population assignment from cancer genomes"
 date: 2019-01-14
-layout: default
 author: mbaudis
-excerpt_separator: <!--more-->
 pdf_file_name: 2018-07-14___Huang_and_Baudis__Population_assignment_from_cancer_genome_data__biorXiv.pdf
 pdf_file_type: article    # slides poster article
 www_link:

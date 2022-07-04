@@ -1,7 +1,6 @@
 ---
 title: "Submicroscopic..."
 date: 2010-05-01
-layout: default
 pdf_file_name: 19762329.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/19762329

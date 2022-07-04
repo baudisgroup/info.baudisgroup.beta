@@ -1,9 +1,7 @@
 ---
 title: "Progenetix &amp; GA4GH Beacon"
-layout: default
 authors:
   - '@mbaudis'
-excerpt_separator: <!--more-->
 category:
   - presentations
   - news

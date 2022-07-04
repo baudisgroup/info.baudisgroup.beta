@@ -1,7 +1,6 @@
 ---
 title: "High resolution copy..."
 date: 2013-02-01
-layout: default
 pdf_file_name: 23073988.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/23073988

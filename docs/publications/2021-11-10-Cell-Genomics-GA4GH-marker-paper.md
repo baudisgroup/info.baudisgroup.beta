@@ -1,10 +1,8 @@
 ---
 title: "GA4GH - International policies and standards"
 date: 2021-11-10
-layout: default
 authors:
   - '@mbaudis'
-excerpt_separator: <!--more-->
 pdf_file_name:
 pdf_file_type: article    # slides poster article
 www_link:

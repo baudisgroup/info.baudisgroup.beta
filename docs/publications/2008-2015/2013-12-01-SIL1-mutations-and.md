@@ -1,7 +1,6 @@
 ---
 title: "SIL1 mutations and..."
 date: 2013-12-01
-layout: default
 pdf_file_name: 24176978.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/24176978

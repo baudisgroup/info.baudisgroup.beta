@@ -6,7 +6,6 @@ category:
 tags:
   - poster
   - presentation
-layout: default
 ---
 
 #### Abstract: [ELIXIR All Hands 2018](https://www.elixir-europe.org/events/elixir-all-hands-2018)

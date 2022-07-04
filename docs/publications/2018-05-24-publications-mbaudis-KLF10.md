@@ -1,7 +1,6 @@
 ---
 title: KLF10 in Cervical Cancer
 date: 2018-05-24
-layout: default
 author: mbaudis
 pdf_file_name:                        # only the file name
 pdf_file_type:  # publications

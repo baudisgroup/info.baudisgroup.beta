@@ -1,18 +1,9 @@
 ---
 title:  "Bo Gao"
-permalink: '/group/Bo_Gao/'
-excerpt_link: https://info.baudisgroup.org/group/Bo_Gao/
-excerpt_separator: <!--more-->
-layout: default
+description: PhD in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics | SIB
 date: 2016-09-01
-category:
-  - people
-tags:
-  - group
+is_gone: true
 ---
-
-## Bo Gao
-#### PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
 
 <!--more-->
 

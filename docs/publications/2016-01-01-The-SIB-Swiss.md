@@ -1,7 +1,6 @@
 ---
 title: "The SIB Swiss..."
 date: 2016-01-01
-layout: default
 pdf_file_name: 26615188.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/26615188

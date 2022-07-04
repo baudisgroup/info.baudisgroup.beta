@@ -1,7 +1,6 @@
 ---
 title: "PKC signaling..."
 date: 2013-01-01
-layout: default
 pdf_file_name: 23412390.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/23412390

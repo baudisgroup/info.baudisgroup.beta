@@ -1,9 +1,7 @@
 ---
 title: "Cancer cell lines"
-layout: default
 authors:
   - '@rahelp'
-excerpt_separator: <!--more-->
 category:
   - presentations
   - news

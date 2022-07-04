@@ -1,6 +1,5 @@
 ---
 title: "HGVS 2019 - Development of Standards for Genomic Data Exchange"
-layout: default
 date: 2019-06-14
 category:
   - presentations

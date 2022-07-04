@@ -1,7 +1,6 @@
 ---
 title: "Comparative genomic..."
 date: 2001-01-01
-layout: default
 pdf_file_name: 21312103.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/21312103

@@ -1,10 +1,8 @@
 ---
 title: "Progenetix.net: an..."
 date: 2001-12-01
-layout: default
 pdf_file_name: 11751233.pdf
 pdf_file_type: article
-excerpt_separator: <!--more-->
 permalink: /publications/11751233.html
 excerpt_link: http://info.baudisgroup.org/publications/11751233.html
 www_links_formatted:

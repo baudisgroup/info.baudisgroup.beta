@@ -1,7 +1,6 @@
 ---
 title: "Microarray..."
 date: 2005-01-01
-layout: default
 pdf_file_name: 16004614.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/16004614

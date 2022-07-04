@@ -1,19 +1,9 @@
 ---
 title:  "Ni Ai"
-permalink: /group/Ni_Ai/
-excerpt_link: https://info.baudisgroup.org/group/Ni_Ai/
-excerpt_separator: <!--more-->
-layout: default
+description: Former PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics | SIB
 date:   2012-05-15
-category:
-  - alumni
-tags:
-  - alumni
-  - group
+is_gone: true
 ---
-
-## Ni Ai
-#### PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
 
 <!--more-->
 

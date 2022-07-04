@@ -1,7 +1,6 @@
 ---
 title: "Randomized study to..."
 date: 2002-11-01
-layout: default
 pdf_file_name: 12431962.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/12431962

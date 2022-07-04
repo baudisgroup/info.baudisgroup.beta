@@ -1,6 +1,5 @@
 ---
 title: "Beacon v2 - Flexible Use and Clinical Applications"
-layout: default
 date: 2020-06-30
 authors:
   - '@mbaudis'

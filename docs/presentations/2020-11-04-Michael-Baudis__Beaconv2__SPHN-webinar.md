@@ -1,6 +1,5 @@
 ---
 title: "Beacon v2 – Towards a reference genomic data protocol"
-layout: default
 date: 2020-11-04
 authors:
   - '@mbaudis'

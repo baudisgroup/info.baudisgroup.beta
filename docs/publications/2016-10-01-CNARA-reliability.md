@@ -1,7 +1,6 @@
 ---
 title: "CNARA: reliability..."
 date: 2016-10-01
-layout: default
 pdf_file_name: 27733115.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/27733115

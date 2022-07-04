@@ -1,9 +1,7 @@
 ---
 title: "Oncogenomic Publication Landscape"
 date: 2018-07-31
-layout: default
 author: Michael
-excerpt_separator: <!--more-->
 pdf_file_name: 2018-10-26___Carrio-Cordo-and-Baudis__Oncogenomic-Publication-Landscape__Oncology.pdf
 pdf_file_type: article    # slides poster article
 www_link: https://www.karger.com/Article/FullText/493192

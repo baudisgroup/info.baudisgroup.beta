@@ -1,7 +1,6 @@
 ---
 title: "Gain of chromosome..."
 date: 2001-04-01
-layout: default
 pdf_file_name: 11241792.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/11241792

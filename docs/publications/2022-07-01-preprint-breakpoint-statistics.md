@@ -1,10 +1,8 @@
 ---
 title: "Candidate targets of copy number deletion events across 17 cancer types"
-layout: default
 authors:
  - '@mbaudis'
  - '@qingyao'
-excerpt_separator: <!--more-->
 excerpt_link:
 pdf_file_name: 2022-06-29___Huang-and-Baudis__Candidate-targets-of-copy-number-deletion-events-across-17-cancer-types__biorXiv.pdf
 pdf_file_type: article    # slides poster article

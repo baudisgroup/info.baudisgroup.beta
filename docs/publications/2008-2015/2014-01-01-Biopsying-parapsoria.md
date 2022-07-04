@@ -1,7 +1,6 @@
 ---
 title: "Biopsying parapsoria..."
 date: 2014-01-01
-layout: default
 pdf_file_name: 25607389.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/25607389

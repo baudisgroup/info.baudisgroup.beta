@@ -1,7 +1,6 @@
 ---
 title: "Inferring progressio..."
 date: 2009-09-01
-layout: default
 pdf_file_name: 19528087.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/19528087

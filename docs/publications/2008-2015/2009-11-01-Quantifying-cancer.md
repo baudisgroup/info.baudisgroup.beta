@@ -1,7 +1,6 @@
 ---
 title: "Quantifying cancer..."
 date: 2009-11-01
-layout: default
 pdf_file_name: 19692554.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/19692554

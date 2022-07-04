@@ -5,7 +5,6 @@ category:
 tags:
   - presentation
   - talk
-layout: default
 pdf_file_name: 2018-09-10___Michael_Baudis__Elixir-Beacon__ECCB18.pdf
 pdf_file_type: slides
 wwws:

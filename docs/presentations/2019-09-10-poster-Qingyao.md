@@ -1,6 +1,5 @@
 ---
 title: "Cancer cell lines in focus: somatic copy number & germline variation"
-layout: default
 date: 2019-09-10
 authors:
  - "@mbaudis"

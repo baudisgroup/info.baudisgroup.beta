@@ -1,6 +1,5 @@
 ---
 title: "GA4GH SchemaBlocks for Human Cell Atlas"
-layout: default
 date: 2020-01-28
 authors:
   - '@mbaudis'

@@ -1,9 +1,7 @@
 ---
 title: "hCNV Implementation Studies Old and New"
-layout: default
 authors:
   - '@mbaudis'
-excerpt_separator: <!--more-->
 category:
   - presentations
   - news

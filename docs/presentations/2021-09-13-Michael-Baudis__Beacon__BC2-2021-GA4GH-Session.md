@@ -1,9 +1,7 @@
 ---
 title: "The GA4GH Beacon Protocol at BC2"
-layout: default
 authors:
   - '@mbaudis'
-excerpt_separator: <!--more-->
 category:
   - presentations
   - news

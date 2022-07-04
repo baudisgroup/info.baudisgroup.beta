@@ -1,7 +1,6 @@
 ---
 title: "Analysis of genomic..."
 date: 1997-12-01
-layout: default
 pdf_file_name: 9405679.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/9405679

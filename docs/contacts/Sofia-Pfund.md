@@ -1,17 +1,10 @@
 ---
 title:  "Sofia Pfund"
+description: Bachelor in Biomedicine, University of Zurich
 permalink: /group/Sofia_Pfund/
 excerpt_link: https://info.baudisgroup.org/group/Sofia_Pfund/
-excerpt_separator: <!--more-->
-layout: default
 date:   2021-03-22
-category:
-  - people
 ---
-
-## Sofia Pfund
-
-#### Bachelor student in Biomedicine, University of Zurich
 
 <!--more-->
 

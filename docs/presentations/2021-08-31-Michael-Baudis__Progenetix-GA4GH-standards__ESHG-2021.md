@@ -1,9 +1,7 @@
 ---
 title: "Cancer genomics reference resource and toolkit around GA4GH standards"
-layout: default
 authors:
   - '@mbaudis'
-excerpt_separator: <!--more-->
 category:
   - presentations
   - news

@@ -1,10 +1,8 @@
 ---
 title: "Meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer"
 date: 2020-04-03
-layout: default
 authors: 
   - "@mbaudis"
-excerpt_separator: <!--more-->
 pdf_file_name: 2020-04-03___Wagner-et-al.__A-Harmonized-Meta-Knowledgebase-of-Somatic-Cancer-Variants__Nature-Genetics.pdf
 pdf_file_type: article   # slides poster article
 www_links_formatted: '<a href="https://www.nature.com/articles/s41588-020-0603-8#article-info" target="_blank">[Nature Genetics]</a>' 

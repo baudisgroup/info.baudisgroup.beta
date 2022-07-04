@@ -1,9 +1,7 @@
 ---
 title: "Minimum Error Calibration and Normalization for Genomic Copy Number Analysis"
 date: 2019-07-31
-layout: default
 author: '@mbaudis'
-excerpt_separator: <!--more-->
 pdf_file_name: 2019-07-31___Gao-and-Baudis__Minimum-Error-Calibration-and-Normalization-for-Genomic-Copy-Number-Analysis__biorXiv.pdf
 pdf_file_type: article    # slides poster article
 www_link:

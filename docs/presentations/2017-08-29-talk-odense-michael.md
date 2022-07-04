@@ -1,5 +1,4 @@
 ---
-layout: default
 date: 2017-08-29
 category:
   - presentations

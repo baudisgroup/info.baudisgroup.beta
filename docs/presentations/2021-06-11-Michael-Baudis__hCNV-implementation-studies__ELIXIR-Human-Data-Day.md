@@ -1,9 +1,7 @@
 ---
 title: "hCNV Community and Implementation Studies"
-layout: default
 authors:
   - '@mbaudis'
-excerpt_separator: <!--more-->
 category:
   - presentations
   - news

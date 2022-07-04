@@ -1,7 +1,6 @@
 ---
 title: "Increased expression..."
 date: 2010-06-01
-layout: default
 pdf_file_name: 20054560.pdf
 pdf_file_type: article
 www_link: http://europepmc.org/abstract/MED/20054560
