@@ -16,7 +16,6 @@ tags:
   - review
 ---
 
-### Oncology Informatics: Status Quo and Outlook.
 #### Paul Martin Putora, Michael Baudis, Beth M. Beadle, Issam El Naqa, Frank A. Giordano and Nils H. Nicolay
 ##### Oncology, 2020-05-14. [DOI 10.1159/000507586](https://doi.org/10.1159/000507586) (Review)
 <!--more-->

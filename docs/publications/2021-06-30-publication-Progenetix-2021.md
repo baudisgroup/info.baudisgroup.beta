@@ -1,5 +1,6 @@
 ---
 title: "The Progenetix oncogenomic resource in 2021"
+description: Article describing the current content & technical status of progenetix.org
 date: 2021-06-30
 authors:
  - '@mbaudis'
@@ -18,8 +19,6 @@ tags:
   - news
 ---
 
-### The Progenetix oncogenomic resource in 2021
-
 #### Qingyao Huang, Paula Carrio Cordo, Bo Gao, Rahel Paloots, Michael Baudis
 
 ##### Database (Oxford). 2021 Jul 17;2021:baab043.
@@ -28,7 +27,7 @@ tags:
 * PMCID: PMC8285936.
 * bioRxiv. doi: https://doi.org/10.1101/2021.02.15.428237
 
-![DATABASE logo](/assets/img/logo-database-journal-300x150.png){: style="float: right; width: 150px; margin-top: -100px;"}This article provides an overview of recent changes and additions to the Progenetix database and the services provided through the resource.
+![DATABASE logo](/img/logo-database-journal-300x150.png){: style="float: right; width: 150px; margin-top: -100px;"}This article provides an overview of recent changes and additions to the Progenetix database and the services provided through the resource.
 
 <!--more-->
 

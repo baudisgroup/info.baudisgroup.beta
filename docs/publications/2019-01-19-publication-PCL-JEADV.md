@@ -15,7 +15,6 @@ tags:
   - article
 ---
 
-### DNA copy number imbalances in primary cutaneous lymphomas (PCL)
 #### Gug G, Huang Q, Chiticariu E, Solovan C and Baudis M  (2019)
 ##### JEADV, 2019-01-19. https://doi.org/10.1111/jdv.15442
 

@@ -1,8 +1,6 @@
 ---
 title: "Yu Yu Liu"
 description: MSc candidate | Université de Pierre et Marie Curie, Paris
-permalink: /group/Yu_Yu_Liu/
-excerpt_link: https://info.baudisgroup.org/group/Yu_Yu_Liu/
 date:   2015-02-18
 is_gone: true
 ---

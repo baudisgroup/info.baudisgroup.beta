@@ -10,8 +10,6 @@ tags:
   - group
 ---
 
-## {{ page.title }}
-
 Today [Ziying Yang](/group/Ziying_Yang/) arrived as a new member of the _baudisgroup_. 
 
 Welcome Ziying!

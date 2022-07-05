@@ -1,8 +1,6 @@
 ---
 title:  "Ziying Yang"
 description: PhD candidate in Molecular Life Sciences, Institute of Molecular Life Sciences, University of Zurich & Swiss Institute of Bioinformatics **SIB**
-permalink: /group/Ziying_Yang/
-excerpt_link: https://info.baudisgroup.org/group/Ziying_Yang/
 date:   2020-10-27
 ---
 

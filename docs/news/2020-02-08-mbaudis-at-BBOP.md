@@ -10,8 +10,6 @@ tags:
   - collaboration
 ---
 
-## {{ page.title }}
-
 Between 2020-02-08 and 2020-04-10, Michael has switched his office for a desk
 at the Berkeley Bioinformatics Open-source Projects ([BBOP](http://www.berkeleybop.org/index.html))
 where he will work with members of Chris Mungall's team on projects related to

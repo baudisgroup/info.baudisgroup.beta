@@ -1,8 +1,6 @@
 ---
 title: "ELIXIR All Hands 2018 - Biocuration"
 date: 2018-06-04
-category:
-  - presentations
 tags:
   - poster
   - presentation

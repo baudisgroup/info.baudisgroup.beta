@@ -18,7 +18,7 @@ pdf_file_type: slides
 ### Qingyao Huang
 #### Cancer Genomics Consortium Annual Meeting 2021 Aug 1-4
 
-<img src="https://info.baudisgroup.org/assets/img/2021-08-03_CGC-session-info.png" style="margin-left: auto; margin-right:auto" />
+<img src="https://info.baudisgroup.org/img/2021-08-03_CGC-session-info.png" style="margin-left: auto; margin-right:auto" />
 
 <!--more-->
 

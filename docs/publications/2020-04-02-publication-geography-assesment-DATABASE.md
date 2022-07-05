@@ -14,7 +14,6 @@ tags:
   - article
 ---
 
-### Geographic assessment of cancer genome profiling studies.
 #### Paula Carrio Cordo, Elise Acheson, Qingyao Huang and Michael Baudis (2020)
 ##### DATABASE, Volume 2020, 2020, baaa009, <https://doi.org/10.1093/database/baaa009>
 

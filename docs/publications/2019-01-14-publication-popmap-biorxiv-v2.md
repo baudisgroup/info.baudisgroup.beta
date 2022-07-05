@@ -1,5 +1,5 @@
 ---
-title: "Population assignment from cancer genomes"
+title: Enabling population assignment from cancer genomes with SNP2pop
 date: 2019-01-14
 author: mbaudis
 pdf_file_name: 2018-07-14___Huang_and_Baudis__Population_assignment_from_cancer_genome_data__biorXiv.pdf
@@ -15,7 +15,6 @@ tags:
   - preprint
 ---
 
-### Enabling population assignment from cancer genomes with SNP2pop.
 #### Huang Q and Baudis M. (2019)
 ##### bioRxiv, 2019-01-14. https://doi.org/10.1101/368647 (first version 2018-07-14)
 

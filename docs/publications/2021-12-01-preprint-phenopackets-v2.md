@@ -1,26 +1,18 @@
 ---
-title: "The GA4GH Phenopacket schema"
+title: "The GA4GH Phenopacket schema: A computable representation of clinical data for precision medicine"
 date: 2021-11-30
+description: Phenopackets v2 preprint
 authors:
  - '@mbaudis'
-excerpt_link:
 pdf_file_name: 2021-11-30___Jacobsen-et-al.__The GA4GH Phenopacket schema__medRxiv-preprint.pdf
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
   - <a href="http://medrxiv.org/content/early/2021/11/30/2021.11.27.21266944.abstract" target="_blank">[bioRxiv]</a>
-category:
-  - publications
-  - news
-tags:
-  - article
-  - preprint
-  - news
 ---
 
-### The GA4GH Phenopacket schema: A computable representation of clinical data for precision medicine
 
-#### Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Callahan TJ, Chute CG, Courtot M, Danis D, Elemento O, Freimuth RR, Gargano MA, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Khalifa A, Krawitz PM, Koehler S, Laraway BJ, Lehvaeslaiho H, Lloyd KC, Matalonga L, McMurry JA, Metke-Jimenez A, Mungall CJ, Munoz-Torres MC, Ogishima S, Papakonstantinou A, Piscia D, Pontikos N, Queralt-Rosinach N, Roos M, Schofield PN, Siapos A, Smedley D, Smith LD, Steinhaus R, Sundaramurthi JC, Swietlik EM, Thun S, Vasilevsky NA, Wagner AH, Warner JL, Weiland C, Haendel MA, Robinson PN.
+#### Jacobsen JOB, Baudis M, Baynam GS, Beckmann JS, Beltran S, Callahan TJ, Chute CG, Courtot M, Danis D, Elemento O, Freimuth RR, Gargano MA, Groza T, Hamosh A, Harris NL, Kaliyaperumal R, Khalifa A, Krawitz PM, Koehler S<!--more-->, Laraway BJ, Lehvaeslaiho H, Lloyd KC, Matalonga L, McMurry JA, Metke-Jimenez A, Mungall CJ, Munoz-Torres MC, Ogishima S, Papakonstantinou A, Piscia D, Pontikos N, Queralt-Rosinach N, Roos M, Schofield PN, Siapos A, Smedley D, Smith LD, Steinhaus R, Sundaramurthi JC, Swietlik EM, Thun S, Vasilevsky NA, Wagner AH, Warner JL, Weiland C, Haendel MA, Robinson PN.
 
 ##### medRxiv, 2021.11.27.21266944. [doi:10.1101/2021.11.27.21266944](https://doi.org/10.1101/2021.11.27.21266944)
 

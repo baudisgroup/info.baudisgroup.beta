@@ -18,7 +18,6 @@ tags:
   - article
 ---
 
-### Minimum Error Calibration and Normalization for Genomic Copy Number Analysis.
 #### Bo Gao and Michael Baudis (2020)
 ##### bioRxiv, 2019-07-31. [DOI 10.1101/720854](https://doi.org/10.1101/720854)
 ##### Genomics, Volume 112, Issue 5, September 2020, Pages 3331-3341, accepted 2020-05-06 [doi.org/10.1016/j.ygeno.2020.05.008](https://doi.org/10.1016/j.ygeno.2020.05.008).

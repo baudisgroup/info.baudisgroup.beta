@@ -15,7 +15,6 @@ tags:
   - article
 ---
 
-### The Ubiquitin Ligase TRIP12 Limits PARP1 Trapping and Constrains PARP Inhibitor Efficiency
 #### Marco Gatti, Ralph Imhof, Qingyao Huang, Michael Baudis, Matthias Altmeyer
 
 ##### Cell Rep. 2020 Aug 4 DOI: [10.1016/j.celrep.2020.107985](https://doi.org/10.1016/j.celrep.2020.107985)

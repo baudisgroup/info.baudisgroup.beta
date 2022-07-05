@@ -18,8 +18,6 @@ tags:
   - news
 ---
 
-### Copy number variant heterogeneity among cancer types reflects inconsistent concordance with diagnostic classifications
-
 #### Paula Carrio Cordo and Michael Baudis
 
 ##### bioRxiv. doi: <https://doi.org/10.1101/2021.03.01.433348>

@@ -11,10 +11,12 @@ edit_uri: edit/main/docs/
 
 nav:
   - 'Baudisgroup Home': index.md
-  - Contacts: contacts
+  - Group: group
+  - Publications: publications
+  - Presentations: presentations
   - 'SchemaBlocks {S}[B] &#8599;': https://schemablocks.org
   - Beacon Project &#8599;: https://beacon-project.io
-  - Michael BAudis @ UZH &#8599;: https://www.mls.uzh.ch/en/research/baudis.html
+  - Michael Baudis @ UZH &#8599;: https://www.mls.uzh.ch/en/research/baudis.html
 
 ###############################################################################
 
@@ -89,13 +91,21 @@ plugins:
 extra:
   news:
     dir: news
-    author: hCNV
+    list_length: 50
+    extended_preview: true
+    excerpt_separator: <!--more-->
+  presentations:
+    dir: presentations
+    list_length: 50
+    extended_preview: true
+    excerpt_separator: <!--more-->
+  publications:
+    dir: publications
     list_length: 50
     extended_preview: true
     excerpt_separator: <!--more-->
   contacts:
-    dir: contacts
-    author: hCNV
+    dir: group
     list_length: 50
     extended_preview: true
     excerpt_separator: <!--more-->

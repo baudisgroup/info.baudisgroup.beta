@@ -1,3 +1,7 @@
+:root {
+  --md-accent-fg-color: #3366ff;
+  --md-accent-font-color: #00a6f1;
+}
 
 @media only screen and (min-width: 76.25em) {
   .md-main__inner {

@@ -25,9 +25,10 @@
 
 <h2>Group Members</h2>
 
-  {% for page in contacts_pages %}
+  {% for page in (contacts_pages|sort(attribute="meta.date") | reverse ) %}
     {% if not page.meta.is_contact %}
       {% if not page.meta.is_gone %}
+      {{page.meta.date}}
         {% include "partials/blog_contact.html" %}
       {% endif %}
     {% endif %}
@@ -35,7 +36,7 @@
 
 <h2>Alumni and Former Visitors</h2>
 
-  {% for page in contacts_pages %}
+  {% for page in (contacts_pages|sort(attribute="meta.date") | reverse ) %}
     {% if page.meta.is_gone %}
       {% include "partials/blog_contact.html" %}
     {% endif %}

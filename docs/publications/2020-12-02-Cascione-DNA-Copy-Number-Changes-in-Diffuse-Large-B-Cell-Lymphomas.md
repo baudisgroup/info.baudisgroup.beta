@@ -15,7 +15,6 @@ tags:
   - review
 ---
 
-### DNA Copy Number Changes in Diffuse Large B Cell Lymphomas (Review)
 #### Luciano Cascione, Luca Aresu, Michael Baudis and Francesco Bertoni
 
 ##### Front. Oncol., 02 December 2020 | [https://doi.org/10.3389/fonc.2020.584095](doi.org/10.3389/fonc.2020.584095)

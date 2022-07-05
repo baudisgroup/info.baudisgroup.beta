@@ -16,7 +16,6 @@ tags:
   - article         # article talk poster slides 
 ---
 
-### {{ page.title }}
 #### Miroslav Cupak , Stephen Keenan , Jordi Rambla , Sabela de la Torre , Stephanie Dyke , Anthony Brookes , Knox Carey , David Lloyd , Peter Goodhand , Maximilian Haeussler , Michael Baudis , Heinz Stockinger , Lena Dolman , Ilkka Lappalainen , Juha Törnroos , Mikael Linden , John Spalding , Saif Ur-Rehman , Angela Page , Paul Flicek , Susheel Varma , Gary Saunders , Serena Scollen , Stephen Sherry , David Haussler , Beacon Project Team
 ##### Nat Biotechnol (2019), accepted 2019-01-23
 

@@ -1,5 +1,5 @@
 ---
-title: "Population assignment from cancer genomes"
+title: Population assignment from cancer genome profiling data
 date: 2018-07-14
 author: mbaudis
 pdf_file_name: 2018-07-14___Huang_and_Baudis__Population_assignment_from_cancer_genome_data__biorXiv.pdf
@@ -13,7 +13,6 @@ tags:
   - article
 ---
 
-### Population assignment from cancer genome profiling data.
 #### Huang Q and Baudis M. (2018)
 ##### bioRxiv, 2018-07-14. doi:10.1101/368647
 

@@ -1,21 +1,12 @@
 ---
-title: Beacon v2 Publication in Human Mutation
+title: 'Beacon v2 and Beacon networks: A "lingua franca" for federated data discovery in biomedical genomics, and beyond'
 authors:
- - '@mbaudis'
+  - '@mbaudis'
+  - "@rahelp"
 description: Beacon v2 publication
 date: 2022-03-17
-author: "@rahelp"
-categories:
-  - publications
-  - news
-tags:
-  - Beacon
-  - article
-  - publication
-  - news
 ---
 
-### Beacon v2 and Beacon networks: A "lingua franca" for federated data discovery in biomedical genomics, and beyond
 #### Rambla J, Baudis M, Ariosa R, Beck T, Fromont LA, Navarro A, Paloots R, Rueda M, Saunders G, Singh B, Spalding JD.
 ##### Human Mutation. 2022 Mar 17. [PMID:35297548](https://onlinelibrary.wiley.com/doi/10.1002/humu.24369)
 

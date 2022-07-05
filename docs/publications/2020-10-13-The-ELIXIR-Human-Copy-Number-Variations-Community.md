@@ -1,5 +1,5 @@
 ---
-title: "The ELIXIR hCNV Community"
+title: "The ELIXIR Human Copy Number Variations Community: building bioinformatics infrastructure for research"
 authors:
  - '@mbaudis'
 pdf_file_name: 2020-10-13___Salgado-D-et-al.__The-ELIXIR-hCNV-Community__F1000-Research.pdf
@@ -14,7 +14,6 @@ tags:
   - article
 ---
 
-### The ELIXIR Human Copy Number Variations Community: building bioinformatics infrastructure for research
 #### Salgado D, Armean IM, Baudis M et al.
 
 ##### F1000Research 2020, 9 (ELIXIR):1229

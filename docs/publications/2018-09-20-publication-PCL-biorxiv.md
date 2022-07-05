@@ -1,7 +1,8 @@
 ---
 title: "DNA copy number imbalances in primary cutaneous lymphomas (PCL)"
 date: 2018-09-20
-author: qingyao
+authors:
+  - @qingyao
 pdf_file_name: 2018-09-14___Gug___DNA_copy_number_imbalances_in_primary_cutaneous_lymphomas_(PCL)_biorXiv.pdf
 pdf_file_type: article    # slides poster article
 www_link:
@@ -15,7 +16,6 @@ tags:
   - news
 ---
 
-### DNA copy number imbalances in primary cutaneous lymphomas (PCL)
 #### Gug G, Huang Q, Chiticariu E, Solovan C and Baudis M  (2018)
 ##### bioRxiv, 2018-09-14. doi:10.1101/417766
 

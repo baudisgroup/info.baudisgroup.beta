@@ -1,4 +1,6 @@
 ---
+title: Personalized medicine in cancer
+description: Seminar - Stanford Center for Genomics & Personalized Medicine
 date: 2017-02-21
 category:
   - presentations
@@ -9,8 +11,6 @@ pdf_file_name: 2017-02-21_Stanford_Michael_Baudis.pdf
 pdf_file_type: slides
 ---
 
-#### Seminar - Stanford Center for Genomics & Personalized Medicine
-## Personalized medicine in cancer
 ### Michael Baudis
 
 ##### Abstract

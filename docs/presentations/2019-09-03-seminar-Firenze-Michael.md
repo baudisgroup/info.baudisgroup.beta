@@ -35,6 +35,6 @@ The presentation will focus on our work for sCNV resources and tools, and also p
 * [Beacon+](http://beacon.progenetix.org)
 * [schemablocks](http://schemablocks.org)
 
-![](/assets/img/2019-09-03-seminar-Firenze-Michael-flyer.png)
+![](/img/2019-09-03-seminar-Firenze-Michael-flyer.png)
 
 

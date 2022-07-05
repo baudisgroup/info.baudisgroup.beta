@@ -1,24 +1,16 @@
 ---
 title: "Candidate targets of copy number deletion events across 17 cancer types"
+description: Identifying cancer related genes against the background of somatic CNV events
 authors:
  - '@mbaudis'
  - '@qingyao'
-excerpt_link:
+date: 2022-07-01
 pdf_file_name: 2022-06-29___Huang-and-Baudis__Candidate-targets-of-copy-number-deletion-events-across-17-cancer-types__biorXiv.pdf
 pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
   - <a href="https://www.biorxiv.org/content/10.1101/2022.06.29.498080v1" target="_blank">[bioRxiv]</a>
-category:
-  - publications
-  - news
-tags:
-  - article
-  - preprint
-  - news
 ---
-
-### {{page.title}}
 
 #### Huang Q and Baudis M
 

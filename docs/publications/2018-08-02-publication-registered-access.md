@@ -13,7 +13,6 @@ tags:
   - article         # article talk poster slides 
 ---
 
-### {{ page.title }}
 #### Dyke SOM, Linden M, Lappalainen I, De Argila JR, Carey K, Lloyd D, Spalding JD, Cabili MN, Kerry G, Foreman J, Cutts T, Shabani M, Rodriguez LL, Haeussler M, Walsh B, Jiang X, Wang S, Perrett D, Boughtwood T, Matern A, Brookes AJ, Cupak M, Fiume M, Pandya R, Tulchinsky I, Scollen S, Törnroos J, Das S, Evans AC, Malin BA, Beck S, Brenner SE, Nyrönen T, Blomberg N, Firth HV, Hurles M, Philippakis AA, Rätsch G, Brudno M, Boycott KM, Rehm HL, Baudis M, Sherry ST, Kato K, Knoppers BM, Baker D, and Flicek P 
 ##### European Journal of Human Genetics (2018)
 

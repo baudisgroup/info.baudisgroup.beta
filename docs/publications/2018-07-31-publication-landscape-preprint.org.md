@@ -1,5 +1,5 @@
 ---
-title: "Oncogenomic Publication Landscape"
+title: Mountains and Chasms - Surveying the Oncogenomic Publication Landscape
 date: 2018-07-31
 author: Michael
 pdf_file_name: 2018-10-26___Carrio-Cordo-and-Baudis__Oncogenomic-Publication-Landscape__Oncology.pdf
@@ -14,7 +14,6 @@ tags:
   - article
 ---
 
-### Mountains and Chasms - Surveying the Oncogenomic Publication Landscape
 #### Carrio Cordo P and Baudis M. (2018)
 ##### Preprints 2018, 2018070618 (doi: 10.20944/preprints201807.0618.v1).
 ##### _Oncology_ (2018; online Oct 26)
