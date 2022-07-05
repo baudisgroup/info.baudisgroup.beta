@@ -12,6 +12,13 @@
         {{ auth_list|join(" & ") }}
       {% endif %}
       {% include "partials/blog_social.html" %}
+      {% if page.meta.pdf_file_name %}
+        {% if ".pdf" in page.meta.pdf_file_name %}
+      <span class="twemoji">
+        <a href="/pdf/{{page.meta.pdf_file_name}}">{% include ".icons/fontawesome/regular/file-pdf.svg" %}</a>
+      </span>
+        {% endif %}
+      {% endif %}
       <span class="twemoji">
         {% include ".icons/octicons/calendar-24.svg" %}
       </span>

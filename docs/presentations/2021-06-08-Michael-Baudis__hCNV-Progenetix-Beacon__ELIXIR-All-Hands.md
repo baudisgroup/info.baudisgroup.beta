@@ -12,7 +12,7 @@ pdf_file_name: 2021-06-08___Michael-Baudis__Beacon-Progenetix__ELIXIR-All-Hands.
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 ### Michael Baudis
 #### [ELIXIR All Hands 2021](https://elixirallhands.eventscase.com/EN/meeting)
 

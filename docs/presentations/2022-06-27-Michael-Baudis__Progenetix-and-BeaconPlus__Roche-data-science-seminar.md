@@ -2,17 +2,11 @@
 title: "Progenetix, BeaconPlus & GA4GH"
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - news
+date: 2022-06-27
 pdf_file_name: 2022-06-27___Michael-Baudis__Progenetix-and-BeaconPlus__Roche-data-science-seminar.pdf
 pdf_file_type: slides
 ---
 
-## {{page.title}}
 ##### A cancer genomics reference resource powered by GA4GH standards
 ### Michael Baudis
 #### Roche Data Science Seminar

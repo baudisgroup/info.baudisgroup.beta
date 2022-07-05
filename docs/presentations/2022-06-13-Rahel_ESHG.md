@@ -2,13 +2,7 @@
 title: "Cancer cell lines"
 authors:
   - '@rahelp'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - news
-
+date: 2022-06-31
 ---
 
 ## Cancer cell line variant knowledge resource for facilitated cell line identification

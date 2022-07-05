@@ -13,7 +13,6 @@ pdf_file_name: 2020-12-07___Michael-Baudis__Genomic-data-and-Privacy__ETHZ-551-1
 pdf_file_type: slides
 ---
 
-## Genomic data and Privacy
 ### Michael Baudis
 #### ETHZ Lecture
 

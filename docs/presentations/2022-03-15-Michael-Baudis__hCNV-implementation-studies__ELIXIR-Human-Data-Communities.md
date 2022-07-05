@@ -12,7 +12,7 @@ pdf_file_name: 2022-03-15___Michael-Baudis__hCNV-community-2019-2021_wrap-up.pdf
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 ### Michael Baudis
 #### ELIXIR Human Data Communities
 

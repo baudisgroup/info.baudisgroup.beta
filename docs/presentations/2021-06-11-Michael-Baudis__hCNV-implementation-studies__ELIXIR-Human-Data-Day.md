@@ -12,7 +12,7 @@ pdf_file_name: 2021-06-11___Michael-Baudis__ELIXIR-hCNV-Updates-and-Plans__ELIXI
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 ### Michael Baudis
 #### [ELIXIR All Hands 2021 Human Data Day](https://elixirallhands.eventscase.com/EN/meeting)
 

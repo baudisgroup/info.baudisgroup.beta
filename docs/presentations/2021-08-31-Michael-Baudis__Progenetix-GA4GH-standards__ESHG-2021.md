@@ -12,7 +12,6 @@ pdf_file_name: 2021-08-31___Michael-Baudis-Progenetix-ESHG-poster.pdf
 pdf_file_type: poster
 ---
 
-## A cancer genomics reference resource and implementation toolkit around GA4GH standards
 ### Q. Huang, B. Gao, R. Paloots, P. Carrio-Cordo, Z. Yang, M. Baudis
 #### [ESHG 2021](https://2021.eshg.org)
 

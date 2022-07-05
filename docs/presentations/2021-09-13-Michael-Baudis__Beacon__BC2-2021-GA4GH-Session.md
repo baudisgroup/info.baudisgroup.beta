@@ -12,7 +12,7 @@ pdf_file_name:
 pdf_file_type:
 ---
 
-## {{page.title}}
+
 #### A Standardized Format for Federated Genomic Data Exchange
 ### Michael Baudis
 #### [BC<sup>2</sup> Basel 2021](https://www.bc2.ch/tutorials-workshops)

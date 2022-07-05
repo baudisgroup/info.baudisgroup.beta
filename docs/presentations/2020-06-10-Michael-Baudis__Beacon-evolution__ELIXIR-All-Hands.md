@@ -15,7 +15,7 @@ pdf_file_name:
 pdf_file_type:
 ---
 
-## {{page.title}}
+
 #### ELIXIR All Hands 2020 - Beacon Workshop
 ### Michael Baudis
 

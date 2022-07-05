@@ -15,7 +15,7 @@ pdf_file_name: 2020-09-21___Michael-Baudis__Progenetix-GA4GH-standards__GA4GH-8t
 pdf_file_type: poster
 ---
 
-## {{page.title}}
+
 #### [GA4GH 8th Plenary](https://broadinstitute.swoogo.com/ga4gh-8th-plenary/455678)
 ### Michael Baudis
 

@@ -19,8 +19,6 @@ tags:
   - presentation
 ---
 
-## {{ page.title }}
-
 ### Discovering copy number variation across multiple cancer types
 
 * Thursday, {{page.date | date: "%Y-%m-%d" }}

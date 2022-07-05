@@ -15,7 +15,7 @@ pdf_file_type: poster
 ---
 
 #### BC2 2019, Basel
-## {{page.title}}
+
 ### Qingyao Huang
 
 #### Abstract

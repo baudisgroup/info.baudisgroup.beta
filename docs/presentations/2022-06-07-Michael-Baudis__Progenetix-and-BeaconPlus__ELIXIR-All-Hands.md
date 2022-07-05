@@ -1,19 +1,13 @@
 ---
 title: "Progenetix & BeaconPlus"
+description: An open cancer genomics resource on a stack of Beacon code...
 authors:
   - '@mbaudis'
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - news
+date: 2022-06-07
 pdf_file_name: 2022-06-07___Michael-Baudis__Progenetix-and-BeaconPlus__ELIXIR-All-Hands-Slides.pdf
 pdf_file_type: slides
 ---
 
-## {{page.title}}
-##### An open cancer genomics resource on a stack of Beacon code...
 ### Michael Baudis
 #### ELIXIR All Hands Amsterdam 2022
 

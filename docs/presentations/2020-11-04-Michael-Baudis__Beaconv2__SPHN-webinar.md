@@ -1,5 +1,5 @@
 ---
-title: "Beacon v2 – Towards a reference genomic data protocol"
+title: "Beacon v2 – Towards flexible use and clinical applications for a reference genomic data protocol"
 date: 2020-11-04
 authors:
   - '@mbaudis'
@@ -16,7 +16,6 @@ pdf_file_name: 2020-11-04___Michael-Baudis__GA4GH,-Beacon-and-SPHN__SPHN-Webinar
 pdf_file_type: slides
 ---
 
-## Beacon v2 – Towards flexible use and clinical applications for a reference genomic data protocol
 #### [SPHN Webinar](https://sphn.ch/seminar-training/beacon-project/)
 ### Michael Baudis
 

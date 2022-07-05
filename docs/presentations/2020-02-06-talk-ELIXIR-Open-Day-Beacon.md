@@ -1,19 +1,9 @@
 ---
-title: "ELIXIR Open Day - Beacon Networks"
+title: "ELIXIR Beacon Project - Networking Resources Across and Beyond ELIXIR Human Data Communities"
 date: 2020-02-06
-category:
-  - presentations
-  - news
-tags:
-  - talk
-  - presentation
-  - abstract
-pdf_file_name:
-pdf_file_type:
 ---
 
 #### [ELIXIR Open Day](https://elixir-europe.org/events/elixir-open-day) - Wellcome Trust Genome Campus Hinxton
-## ELIXIR Beacon Project - Networking Resources Across and Beyond ELIXIR Human Data Communities
 ### Michael Baudis
 
 In this presentation I introduce the Beacon project and provide

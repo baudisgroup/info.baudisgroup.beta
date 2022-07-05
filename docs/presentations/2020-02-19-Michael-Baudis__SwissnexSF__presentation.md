@@ -12,7 +12,7 @@ pdf_file_name: "2020-03-19___Swissnex-SF-Michael-Baudis-Biodata.pdf"
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 ### Genomic Research and Personalised Health Strategies
 #### Resources | Standards | Protocols | Tools | Discourse
 

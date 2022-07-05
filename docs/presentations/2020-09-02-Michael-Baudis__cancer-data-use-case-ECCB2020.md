@@ -15,7 +15,7 @@ pdf_file_name: 2020-09-02___Michael__ELIXIR-GA4GH-Cancer_Use-Case__ECCB2020.pdf
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 #### [ECCB2020](https://eccb2020.info/ntbew02-elixirga4gh-advancing-genomics-through-expedited-data-access-enabled-by-standards-and-ontologies/)
 ### Michael Baudis
 

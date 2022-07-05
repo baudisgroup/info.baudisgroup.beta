@@ -13,7 +13,6 @@ pdf_file_name:
 pdf_file_type:
 ---
 
-## ELIXIR Beacon Project
 #### Concepts | Status | History | Outlook
 ### Michael Baudis
 #### [Research Data Alliance - RDA Virtual Plenary 17](https://rda-idcc.junolive.co/RDAVP17)

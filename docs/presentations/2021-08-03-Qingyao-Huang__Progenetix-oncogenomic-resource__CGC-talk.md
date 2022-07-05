@@ -14,7 +14,7 @@ pdf_file_name: 2021-08-03___Qingyao-Huang__CGC-progenetix-presentation__slides.p
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 ### Qingyao Huang
 #### Cancer Genomics Consortium Annual Meeting 2021 Aug 1-4
 

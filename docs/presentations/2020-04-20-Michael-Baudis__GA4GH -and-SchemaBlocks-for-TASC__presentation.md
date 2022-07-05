@@ -12,7 +12,7 @@ pdf_file_name: "2020-04-20___Michael-Baudis__SchemaBlocks-and-TASC__TASC-meeting
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 
 A brief presentation about SchemaBlocks concepts and its possible integration into the new GA4GH TASC effort.
 

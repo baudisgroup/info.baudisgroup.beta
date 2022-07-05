@@ -15,7 +15,7 @@ tags:
   - poster
 ---
 
-## {{ page.title }}
+
 
 ### The Progenetix Oncogenomic Resource
 

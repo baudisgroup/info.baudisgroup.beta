@@ -12,7 +12,7 @@ pdf_file_name: 2021-09-22___Michael-Baudis__Progenetix,-Beacon-and-GA4GH__Novart
 pdf_file_type: slides
 ---
 
-## {{page.title}}
+
 #### A cancer genomics resource built around and driving GA4GH standards
 ### Michael Baudis
 #### GRIC sponsored workshop with the Swiss Institute of Bioinformatics

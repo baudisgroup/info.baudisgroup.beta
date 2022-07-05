@@ -3,15 +3,9 @@ title: "Implementation of the GA4GH Beacon protocol for discovery and sharing of
 authors:
   - '@mbaudis'
 pdf_file_name: 2022-06-13___Michael-Baudis-Progenetix-ESHG-poster.pdf
-category:
-  - presentations
-  - news
-tags:
-  - presentation
-  - news
+date: 2022-06-13
 ---
 
-## {{page.title}}
 ### Michael Baudis
 #### ESHG Vienna 2022
 
