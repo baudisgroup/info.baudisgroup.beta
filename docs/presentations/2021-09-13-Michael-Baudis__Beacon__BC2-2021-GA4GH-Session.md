@@ -1,5 +1,6 @@
 ---
 title: "The GA4GH Beacon Protocol at BC2"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

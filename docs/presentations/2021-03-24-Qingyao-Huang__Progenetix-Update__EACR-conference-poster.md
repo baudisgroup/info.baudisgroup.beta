@@ -1,5 +1,6 @@
 ---
 title: 'EACR conference - The Progenetix Oncogenomic Resource'
+template: blog_post.html 
 authors:
   - '@mbaudis'
   - '@qingyao'

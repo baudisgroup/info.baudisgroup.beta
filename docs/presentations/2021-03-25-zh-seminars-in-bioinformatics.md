@@ -1,5 +1,6 @@
 ---
 title: 'ZH Sem Bioinfo - Qingyao Huang'
+template: blog_post.html 
 authors:
   - '@mbaudis'
   - '@qingyao'

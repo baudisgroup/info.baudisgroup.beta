@@ -1,5 +1,6 @@
 ---
 title: "Progenetix &amp; GA4GH Beacon"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

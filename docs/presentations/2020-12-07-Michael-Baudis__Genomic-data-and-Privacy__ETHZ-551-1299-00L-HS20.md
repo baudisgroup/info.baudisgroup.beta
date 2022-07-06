@@ -1,6 +1,7 @@
 ---
 title: "Genomic data and Privacy"
 date: 2020-12-07
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

@@ -1,5 +1,6 @@
 ---
 title: "Cancer cell lines"
+template: blog_post.html 
 authors:
   - '@rahelp'
 date: 2022-06-31

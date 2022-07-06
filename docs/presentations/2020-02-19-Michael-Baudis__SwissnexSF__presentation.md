@@ -1,6 +1,7 @@
 ---
 title: "SWISSNEX SF Lunch Seminar - Data Mining in Genomics"
 date: 2020-03-19
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

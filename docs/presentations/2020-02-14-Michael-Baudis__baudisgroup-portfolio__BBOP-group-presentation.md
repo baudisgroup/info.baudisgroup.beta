@@ -1,6 +1,7 @@
 ---
 title: "BBOP Presentation - Baudisgroup Projects & Interests"
 date: 2020-02-14
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

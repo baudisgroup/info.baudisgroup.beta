@@ -1,5 +1,6 @@
 ---
 title: "hCNV data and the Progenetix Beacon"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

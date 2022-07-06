@@ -1,5 +1,6 @@
 ---
 title: "Progenetix, Beacon and GA4GH at RDA"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

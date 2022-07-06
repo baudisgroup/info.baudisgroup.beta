@@ -1,5 +1,6 @@
 ---
 title: "Progenetix, BeaconPlus & GA4GH"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 date: 2022-06-27

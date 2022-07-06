@@ -1,6 +1,7 @@
 ---
 title: "Progenetix - A cancer genomics reference resource around GA4GH standards"
 date: 2020-09-30
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

@@ -1,5 +1,6 @@
 ---
 title: "Implementation of the GA4GH Beacon protocol for discovery and sharing of genomic copy number variation data"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 pdf_file_name: 2022-06-13___Michael-Baudis-Progenetix-ESHG-poster.pdf

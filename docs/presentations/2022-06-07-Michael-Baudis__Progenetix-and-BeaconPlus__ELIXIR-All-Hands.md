@@ -1,6 +1,7 @@
 ---
 title: "Progenetix & BeaconPlus"
 description: An open cancer genomics resource on a stack of Beacon code...
+template: blog_post.html 
 authors:
   - '@mbaudis'
 date: 2022-06-07

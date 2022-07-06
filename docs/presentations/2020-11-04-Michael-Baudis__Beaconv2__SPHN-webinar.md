@@ -1,6 +1,7 @@
 ---
 title: "Beacon v2 – Towards flexible use and clinical applications for a reference genomic data protocol"
 date: 2020-11-04
+template: blog_post.html 
 authors:
   - '@mbaudis'
 www_link: https://sphn.ch/seminar-training/beacon-project/

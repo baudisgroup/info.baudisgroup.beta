@@ -1,5 +1,6 @@
 ---
 title: "hCNV Implementation Studies Old and New"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

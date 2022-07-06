@@ -12,17 +12,18 @@
         {{ auth_list|join(" & ") }}
       {% endif %}
       {% include "partials/blog_social.html" %}
-      {% if page.meta.pdf_file_name %}
-        {% if ".pdf" in page.meta.pdf_file_name %}
+<!--       {% if page.url.startswith(config.extra.presentations.dir) %}
       <span class="twemoji">
-        <a href="/pdf/{{page.meta.pdf_file_name}}">{% include ".icons/fontawesome/regular/file-pdf.svg" %}</a>
+        {% include ".icons/fontawesome/regular/file.svg" %}
       </span>
-        {% endif %}
       {% endif %}
+ -->  
+      {% if page.meta.date %}
       <span class="twemoji">
         {% include ".icons/octicons/calendar-24.svg" %}
       </span>
       {{ page.meta.date.strftime("%B %d, %Y") }}
+      {% endif %}
     </span>
   </p>
 </aside>

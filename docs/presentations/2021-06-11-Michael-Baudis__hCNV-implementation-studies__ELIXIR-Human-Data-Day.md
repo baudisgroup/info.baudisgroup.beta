@@ -1,5 +1,6 @@
 ---
 title: "hCNV Community and Implementation Studies"
+template: blog_post.html 
 authors:
   - '@mbaudis'
 category:

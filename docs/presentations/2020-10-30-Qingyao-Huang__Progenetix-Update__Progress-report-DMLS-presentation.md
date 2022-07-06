@@ -1,6 +1,7 @@
 ---
 title: "Update of Progenetix Oncogenomics Resource"
 date: 2020-10-30
+template: blog_post.html 
 authors:
   - '@qingyao'
 category:
