@@ -6,7 +6,6 @@ pdf_file_name:                        # only the file name
 pdf_file_type:  # publications
 www_link_:
   - www.ncbi.nlm.nih.gov/pubmed/29930344
-excerpt_separator: <!--more--> 
 category:
   - publications                         # publications
 tags: 

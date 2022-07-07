@@ -1,6 +1,7 @@
 ---
 title: "GA4GH: International policies and standards for data sharing across genomic research and healthcare"
 date: 2021-11-10
+template: blog_post.html 
 authors:
   - '@mbaudis'
 www_links_formatted:

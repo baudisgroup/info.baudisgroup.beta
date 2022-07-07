@@ -1,6 +1,7 @@
 ---
 title: "Copy number variant heterogeneity among cancer types reflects inconsistent concordance with diagnostic classifications"
 date: 2021-03-01
+template: blog_post.html 
 authors:
  - '@mbaudis'
 excerpt_link: https://info.baudisgroup.org/publications/2021-03-01-preprint-Copy-number-variant-heterogeneity/

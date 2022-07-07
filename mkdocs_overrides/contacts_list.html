@@ -15,7 +15,7 @@
     {% endif %}
   {% endfor %}
 
-<h2>Contacts</h2>
+<h2 class="contacts_section">Contacts</h2>
 
   {% for page in contacts_pages %}
     {% if page.meta.is_contact %}
@@ -28,7 +28,6 @@
   {% for page in (contacts_pages|sort(attribute="meta.date") | reverse ) %}
     {% if not page.meta.is_contact %}
       {% if not page.meta.is_gone %}
-      {{page.meta.date}}
         {% include "partials/blog_contact.html" %}
       {% endif %}
     {% endif %}

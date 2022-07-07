@@ -1,23 +1,16 @@
 ---
 title: "DNA Copy Number Changes in Diffuse Large B Cell Lymphomas"
+template: blog_post.html 
 authors:
  - '@mbaudis'
 pdf_file_name: 2020-12-02___Cascione-et-al.__DNA-Copy-Number-Changes-in-Diffuse-Large-B-Cell-Lymphomas__Front-in-Oncol-review.pdf
-pdf_file_type: article    # slides poster article
 www_link:
 www_links_formatted:
   - '<a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.584095/full" target="_blank">[article @ Frontiers in Oncology]</a>'
-category:
-  - publications
-  - news
-tags:
-  - article
-  - review
 ---
 
 #### Luciano Cascione, Luca Aresu, Michael Baudis and Francesco Bertoni
-
-##### Front. Oncol., 02 December 2020 | [https://doi.org/10.3389/fonc.2020.584095](doi.org/10.3389/fonc.2020.584095)
+##### Front. Oncol., 02 December 2020 | [https://doi.org/10.3389/fonc.2020.584095](https://doi.org/10.3389/fonc.2020.584095)
 
 <!--more-->
 

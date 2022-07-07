@@ -1,6 +1,7 @@
 ---
 title: "Signatures of Discriminative CNA in 31 Cancer Subtypes"
 date: 2021-05-13
+template: blog_post.html 
 authors:
  - '@mbaudis'
  - '@KyleGao'

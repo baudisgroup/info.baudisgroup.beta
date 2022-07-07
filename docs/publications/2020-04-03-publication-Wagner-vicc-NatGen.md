@@ -1,6 +1,7 @@
 ---
 title: "A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer"
 date: 2020-04-03
+template: blog_post.html 
 authors: 
   - "@mbaudis"
 pdf_file_name: 2020-04-03___Wagner-et-al.__A-Harmonized-Meta-Knowledgebase-of-Somatic-Cancer-Variants__Nature-Genetics.pdf

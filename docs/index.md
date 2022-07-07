@@ -10,7 +10,7 @@ The _baudisgroup_ website represents projects and information by the __Computati
 
 ### Some Projects
 
-Ongoing software and service projects can be visited at our Github organizations ([[progenetix](https://github.com/progenetix)] and [[baudisgroup](https://github.com/baudisgroup)]) and when looking at individual contributions to e.g. GA4GH and ELIXIR.
+Ongoing software and service projects can be visited at our Github organizations ([progenetix](https://github.com/progenetix) and [baudisgroup](https://github.com/baudisgroup)) and when looking at individual contributions to e.g. GA4GH and ELIXIR.
 
 * [bycon](https://github.com/progenetix/bycon) at Github in __Progenetix__ - Python based implementation of a [GA4GH Beacon](http://beacon-project.org)
 * [pgxRpi](https://github.com/progenetix/pgxRpi) at Github in __Progenetix__ - An API wrapper package in R for loading & displaying data from Progenetix 
@@ -23,7 +23,7 @@ Ongoing software and service projects can be visited at our Github organizations
 ### Support or Contact
 
 For requests & support, please use standard Github procedures such as pull
-requests or issues on our project repositories, or [contact us](contact@progenetix.org).
+requests or issues on our project repositories, or [contact us](mailto:contact@progenetix.org).
 
 ### Address
 

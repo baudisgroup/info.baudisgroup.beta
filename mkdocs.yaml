@@ -37,11 +37,11 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.saneheaders
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid   
+  # - pymdownx.superfences:
+  #     custom_fences:
+  #       - name: mermaid
+  #         class: mermaid
+  #         format: !!python/name:mermaid2.fence_mermaid   
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -85,30 +85,24 @@ plugins:
     # - with-pdf:
     #     author: Progenetix
     #     output_path: pdf/progenetix-documentation.pdf
-    - macros
-    - mermaid2
+    # - macros
+    # - mermaid2
 
 extra:
+  excerpt_separator: <!--more-->
+  blog_list_length: 50
   news:
     dir: news
-    list_length: 50
     extended_preview: true
-    excerpt_separator: <!--more-->
   presentations:
     dir: presentations
-    list_length: 50
     extended_preview: true
-    excerpt_separator: <!--more-->
   publications:
     dir: publications
-    list_length: 50
     extended_preview: true
-    excerpt_separator: <!--more-->
   contacts:
     dir: group
-    list_length: 50
     extended_preview: true
-    excerpt_separator: <!--more-->
   social:
     # - icon: fontawesome/brands/twitter 
     #   link: https://twitter.com/progenetix
