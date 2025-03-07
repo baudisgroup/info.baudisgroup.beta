@@ -4,6 +4,4 @@ template: presentations_list.html
 
 # Presentations
 
-The shows a probably incomplete following list of presentations (posters, talks, abstracts) from group members.
-Usually, PDF versions of the slides or posters are linked from the details pages.
-
+Please go to the current page at [baudisgroup.org/presentations/](https://baudisgroup.org/presentations/)

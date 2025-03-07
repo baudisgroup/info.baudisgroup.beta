@@ -1,7 +1,7 @@
 site_name: 'baudisgroup @ UZH & SIB'
 site_description: 'Computational Oncogenomics Group @ UZH & SIB'
 site_author: Michael Baudis
-copyright: '&copy; Copyright 2007 - 2022 Michael Baudis'
+copyright: '&copy; Copyright 2007 - 2025 Michael Baudis'
 repo_name: 'baudisgroup.github.io'
 
 repo_url: https://github.com/baudisgroup/baudisgroup.github.io
@@ -10,10 +10,19 @@ edit_uri: edit/main/docs/
 ###############################################################################
 
 nav:
-  - 'Baudisgroup Home': index.md
-  - Group: group
-  - Publications: publications
-  - Presentations: presentations
+  - 'Baudisgroup Home': https://baudisgroup.org
+  - Address: https://baudisgroup.org/address
+  - Group Members: https://baudisgroup.org/group
+  - Publications: https://baudisgroup.org/publications
+  - Presentations: https://baudisgroup.org/presentations
+  - Projects and Open Positions: https://baudisgroup.org/projects-and-positions
+  - 'Teaching and Seminars':
+    - 'BIO390 Lectures &#8599;': https://compbiozurich.org/teaching/UZH-BIO390/
+    - 'BIO392 Block Course &#8599;': https://compbiozurich.org/teaching/UZH-BIO392/
+    - 'ZH Bioinfo Seminars &#8599;': https://compbiozurich.org/news/
+  - 'Progenetix &#8599;': http://progenetix.org
+  - 'Cancercelllines &#8599;': http://cancercelllines.org
+  - 'CompbioZurich &#8599;': https://compbiozurich.org
   - 'SchemaBlocks {S}[B] &#8599;': https://schemablocks.org
   - Beacon Project &#8599;: https://beacon-project.io
   - Michael Baudis @ UZH &#8599;: https://www.mls.uzh.ch/en/research/baudis.html
@@ -37,11 +46,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.saneheaders
-  # - pymdownx.superfences:
-  #     custom_fences:
-  #       - name: mermaid
-  #         class: mermaid
-  #         format: !!python/name:mermaid2.fence_mermaid   
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -50,22 +54,16 @@ markdown_extensions:
   - mdx_gh_links:
       user: hCNV
       repo: hcnv.github.io
-  - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
-        options:
-          custom_icons:
-            - mkdocs_overrides/.icons
 
 ###############################################################################
 
 theme:
   name: material
   palette:
-    primary: light blue
-    accent: indigo
-  # favicon: img/logo-schemablocks-no-text-50x50.png
-  # logo: img/logo-GA4GH-white-text-670x160.png
+    primary: white
+    accent: white
+  favicon: img/favicon.ico
+  logo: img/site_logo.png
   icon:
     repo: fontawesome/brands/github-alt
     admonition:
@@ -78,7 +76,7 @@ theme:
     - navigation.tracking
     - navigation.sections
     - toc.integrate
-  custom_dir: mkdocs_overrides
+  custom_dir: extras
       
 plugins:
     - search
@@ -90,27 +88,18 @@ plugins:
 
 extra:
   excerpt_separator: <!--more-->
-  blog_list_length: 50
+  blog_list_length: 100
   news:
     dir: news
-    extended_preview: true
   presentations:
     dir: presentations
-    extended_preview: true
   publications:
     dir: publications
-    extended_preview: true
   contacts:
     dir: group
-    extended_preview: true
   social:
-    # - icon: fontawesome/brands/twitter 
-    #   link: https://twitter.com/progenetix
     - icon: fontawesome/brands/github 
       link: https://github.com/baudisgroup
 extra_css:
   - css/theme_overrides.css
-# extra_javascript:
-  # - https://unpkg.com/mermaid/dist/mermaid.min.js
-  # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
     
