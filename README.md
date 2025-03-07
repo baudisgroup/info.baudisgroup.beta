@@ -1,3 +1,3 @@
-# [Baudisgroup Website](http://beta.baudisgroup.org)
+# [Baudisgroup Website](http://baudisgroup.org)
 
-Mkdocs version of the [revised baudisgroup site](http://info.baudisgroup.org).
+Please use the [revised baudisgroup site](http://baudisgroup.org).
